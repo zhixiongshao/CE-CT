@@ -17,7 +17,7 @@ This is a model to predict perivascular invasion in pancreatic ductal adenocarci
 ### 3. Model Weights and Test Data
 
 - Pre-trained model weights are provided in the `models/` directory.  
-- Example test data are available in the `test_data/` directory for evaluation and reproducibility.  
+- Example test data are available in the `test_predict/` and `test_segment/` directory for evaluation and reproducibility.  
 
 ---
 
