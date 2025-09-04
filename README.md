@@ -8,7 +8,7 @@ This is a model to predict perivascular invasion in pancreatic ductal adenocarci
 - In this project, nnU-Net is used to segment the pancreatic tumor regions from CT scans.  
 - For more details, see the original repository: [nnU-Net GitHub](https://github.com/MIC-DKFZ/nnunet)
 
-### 2. Vascular Invasion Prediction
+### 2. Perivascular Invasion Prediction
 
 - After segmentation, the tumor regions are used as input for a prediction model that estimates the likelihood of vascular invasion.  
 - The prediction model is trained using labeled cases with and without vascular invasion.  
